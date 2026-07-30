@@ -668,7 +668,7 @@ document.addEventListener("DOMContentLoaded", function () {
 <a href="${url}">slot gacor login --(77superslot.com)</a>
 <a href="${url}">slot gacor @www.3plworldwide.com</a>
 <a href="${url}">slot gacor login --77super.com</a>
-<a href="${url}">situs gacor --dukuntoto</a>
+<a href="${url}">situs gacor --delta 575</a>
 <a href="${url}">judi bola --sektorplay88.com</a>
 <a href="${url}">slot gacor o3--(haha303)</a>
 <a href="${url}">slot gacor --win(wingacor77.net)</a>
@@ -749,7 +749,7 @@ document.addEventListener("DOMContentLoaded", function () {
 <a href="${url}">Mahjong Ways --jajantogel</a>
 <a href="${url}">Rtp Live --ratutogel@</a>
 <a href="${url}">situs gacor --ratutogel.mediacom.com</a>
-<a href="${url}">situs gacor --7nagatoto</a>
+<a href="${url}">situs gacor --ratu togel</a>
 <a href="${url}">situs gacor @koingacor789.com</a>
 <a href="${url}">situs gacor --ratutogel</a>
 <a href="${url}">situs gacor --a1(agentbetting.77)</a>
@@ -833,7 +833,7 @@ document.addEventListener("DOMContentLoaded", function () {
 <a href="${url}">slot demo --ihokibetðŸ’‹</a>
 <a href="${url}">slot demo --kingsports99</a>
 <a href="${url}">situs slot gacor-kaya33.com</a>
-<a href="${url}">situs slot --7nagatoto</a>
+<a href="${url}">situs slot --pt togel</a>
 <a href="${url}">situs slot --kaptenasia</a>
 <a href="${url}">situs slot --(spin707)</a>
 <a href="${url}">slot okebray.com</a>
@@ -1783,8 +1783,6 @@ document.addEventListener("DOMContentLoaded", function () {
 <a href="${url}">slot gopay</a>
 <a href="${url}">slot pulsa</a>
 <a href="${url}">slot mahjong</a>
-<a href="${url}">7nagatoto login</a>
-<a href="${url}">7nagatoto daftar</a>
 <a href="${url}">slotering.store -</a>
 <a href="${url}">slotering.hub -</a>
 <a href="${url}">slotering.space -</a>
